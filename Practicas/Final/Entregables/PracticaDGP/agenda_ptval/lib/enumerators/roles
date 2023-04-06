@@ -1,0 +1,8 @@
+enum roles {
+    ALL,
+    ADMIN,
+    PROFESOR,
+    ADMIN_PROFESOR,
+    ALUMNO,
+
+}

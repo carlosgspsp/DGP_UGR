@@ -1,0 +1,5 @@
+enum ventanasOrigen {
+    LOGIN,
+    CREAR_EDITAR,
+    MENU_COMIDA
+}

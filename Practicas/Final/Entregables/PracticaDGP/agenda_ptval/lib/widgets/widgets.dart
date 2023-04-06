@@ -1,0 +1,12 @@
+export 'package:agenda_ptval/widgets/custom_card_image_editable.dart';
+export 'package:agenda_ptval/widgets/custom_card_image.dart';
+export 'package:agenda_ptval/widgets/gen_text_form_field.dart';
+export 'package:agenda_ptval/widgets/list_tile_material.dart';
+export 'package:agenda_ptval/widgets/render_lista_clases.dart';
+export 'package:agenda_ptval/widgets/render_tarjeta_seleccion_alumno.dart';
+export 'package:agenda_ptval/widgets/tarjeta_alumno.dart';
+export 'package:agenda_ptval/widgets/tarjeta_clase.dart';
+export 'package:agenda_ptval/widgets/tarjeta_comanda.dart';
+export 'package:agenda_ptval/widgets/tarjeta_imagen_login_alumno.dart';
+export 'package:agenda_ptval/widgets/tarjeta_seleccion_alumno.dart';
+export 'package:agenda_ptval/widgets/tarjeta_tarea.dart';
